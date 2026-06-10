@@ -1,4 +1,4 @@
-const CACHE_NAME = 'netflix-clone-cache-v1';
+const CACHE_NAME = 'netflix-angel-cache-v1';
 const urlsToCache = [
   '/',
   '/index.html',

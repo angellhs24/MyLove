@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#000000",
     "theme_color": "#E50914",
-    "description": "A Netflix clone.",
+    "description": "A Netflix for MyLove",
     "icons": [
       {
         "src": "img/icon.svg",
