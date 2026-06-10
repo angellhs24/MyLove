@@ -18,6 +18,7 @@ body {
     padding: 10px 50px;
     background-color: #000;
     z-index: 1000;
+    box-sizing: border-box;
 }
 
 .nav-left {
@@ -27,7 +28,7 @@ body {
 
 .logo-sidebar img {
     height: 40px;
-    margin-right: 25px;
+    margin-right: 40px; /* Increased space after logo */
 }
 
 .top-nav ul {
@@ -39,7 +40,7 @@ body {
 }
 
 .top-nav ul li a {
-    padding: 15px 20px;
+    padding: 15px 20px; /* Increased horizontal padding */
     color: #b3b3b3;
     text-decoration: none;
     font-size: 14px;
@@ -50,14 +51,14 @@ body {
     color: #fff;
 }
 
-.icons-and-profile {
+.nav-right {
     display: flex;
     align-items: center;
 }
 
 .nav-icon {
     color: #fff;
-    margin-left: 20px;
+    margin-left: 25px; /* Increased space between icons */
     font-size: 18px;
 }
 
@@ -65,7 +66,7 @@ body {
     height: 35px;
     width: 35px;
     object-fit: cover;
-    margin-left: 20px;
+    margin-left: 25px; /* Space between bell icon and profile pic */
 }
 
 /* Main Content */
